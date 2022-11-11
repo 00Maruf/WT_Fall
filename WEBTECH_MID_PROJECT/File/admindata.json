@@ -1,0 +1,51 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "pass": "admin",
+        "dob": "2003-02-07",
+        "gender": "Male",
+        "language": [
+            "English",
+            "Bangla"
+        ],
+        "country": "Bangladesh",
+        "address": "Dhaka"
+    },
+    {
+        "username": "maruf",
+        "email": "123@gmail.com",
+        "pass": "1234",
+        "dob": "2003-02-24",
+        "gender": "Male",
+        "language": [
+            "English"
+        ],
+        "country": "Bangladesh",
+        "address": "bhuyanpur"
+    },
+    {
+        "username": "forhad",
+        "email": "forhad123@gmail.com",
+        "pass": "12345",
+        "dob": "2003-01-08",
+        "gender": "Male",
+        "language": [
+            "English"
+        ],
+        "country": "Bangladesh",
+        "address": "Mirpur"
+    },
+    {
+        "username": "jakir",
+        "email": "md2@gmail.com",
+        "pass": "1235",
+        "dob": "2003-02-04",
+        "gender": "Male",
+        "language": [
+            "English"
+        ],
+        "country": "Bangladesh",
+        "address": "dhaka"
+    }
+]
